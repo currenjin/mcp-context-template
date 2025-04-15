@@ -1,4 +1,4 @@
-# MCP Context Template (English Version)
+# MCP Context Template
 
 ## Introduction
 MCP Context Template is a repository designed to centrally manage AI tools (MCP - Model Centralized Prompting) to reduce context sharing costs and improve development productivity.
