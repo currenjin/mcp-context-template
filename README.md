@@ -1,7 +1,7 @@
 # MCP Context Template
 
 ## Introduction
-MCP Context Template is a repository designed to centrally manage AI tools (MCP - Model Centralized Prompting) to reduce context sharing costs and improve development productivity.
+MCP Context Template is a repository designed to centrally manage AI tools (MCP) to reduce context sharing costs and improve development productivity.
 
 It serves as a central context repository that helps modern AI tools like Claude Code and Cursor AI consistently understand your company's codebase and development practices.
 
