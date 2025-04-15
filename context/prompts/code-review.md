@@ -6,3 +6,4 @@
 fun calculateDiscount(amount: Int): Int {
     return if (amount > 10000) 1000 else 0
 }
+```
