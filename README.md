@@ -87,7 +87,7 @@ fun getUserById(id: Long): User
 # MCP Context Template(Korean)
 
 ## 소개
-MCP Context Template은 AI 도구(MCP - Model Centralized Prompting)를 "중앙 집중식"으로 관리하여 컨텍스트 공유 비용을 줄이고 개발 생산성을 높이기 위한 레포지토리입니다.
+MCP Context Template은 AI 도구(MCP)를 "중앙 집중식"으로 관리하여 컨텍스트 공유 비용을 줄이고 개발 생산성을 높이기 위한 레포지토리입니다.
 
 Claude Code, Cursor AI 등 최신 AI 도구들이 일관된 방식으로 회사의 코드베이스와 개발 관행을 이해할 수 있도록 돕는 중앙 컨텍스트 저장소로 기능합니다.
 
